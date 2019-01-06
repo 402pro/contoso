@@ -26,7 +26,7 @@ steps:
   inputs:
     SonarQube: sc
     projectKey: '402pro_contoso'
-    projectName: '402pro_contoso'
+    projectName: 'contoso'
 
 - task: VSBuild@1
   inputs:
